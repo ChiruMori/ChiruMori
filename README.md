@@ -1,6 +1,6 @@
 
 <p>
-  <h4 align="center"><b>应该有一个梦想，哪怕是造一轮大疯车</b></h4>
+  <h4 align="center"><b>要有一个梦想，比如造轮大疯车</b></h4>
 </p>
 
 <!--
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ### :zap: Github Stats
 
-> 准备一场旅行
+> 准备一场旅行，不问终点
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ChiruMori&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nihadenes's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ChiruMori&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="ChiruMori's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiruMori&theme=tokyonight" width="37%" alt="nihadenes's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiruMori&theme=tokyonight" width="37%" alt="ChiruMori's Top Languages">
