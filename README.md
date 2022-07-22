@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 > 准备一场旅行，不问终点
 
-<div align="center">
-  <a href="#"><img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChiruMori&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="200"  alt="ChiruMori's Github Stats"/></a>
+<div style="display: flex">
+  <a href="#"><img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChiruMori&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="200" alt="ChiruMori's Github Stats"/></a>
   <a href="#"><img alt="ChiruMori's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiruMori&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="200"/></a>
 </div>
 
