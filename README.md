@@ -1,6 +1,6 @@
 
 <p>
-  <h4 align="center"><b>造轮大疯车</b></h4>
+  <h1 align="center"><b>Hiii👋, ChiruMori Desuyo!</b></h1>
 </p>
 
 <!--
@@ -21,16 +21,13 @@ Here are some ideas to get you started:
 
 <hr />
 
-<p>
-  <h4 align="center"><b>旅程尚未开始</b></h4>
-</p>
+> 准备一场旅行..ing
+
 <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ChiruMori/count.svg" />
 </p>
 
 ### :zap: Github Stats
-
-> 准备一场旅行，不问终点
 
 <div align="center">
   <img alt="ChiruMori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChiruMori&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="200"/>
