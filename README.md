@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 <div align = "center">  
   <img alt="ChiruMori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChiruMori&custom_title=ChiruMori%20at%20Github&bg_color=0D1117&color=00aaff&line=FFFFFF&point=00aaff&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ChiruMori&column=6&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChiruMori&column=7&theme=onedark" />
 </div>
