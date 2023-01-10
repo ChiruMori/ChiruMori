@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### :zap: Github Stats
 
 <div align="center">
-  <img alt="ChiruMori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChiruMori&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=0AF&icon_color=0AF&bg_color=0D1117&theme=react" height="200"/>
+  <img alt="ChiruMori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChiruMori&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=0AF&icon_color=0AF&bg_color=0D1117&theme=react" height="200"/>
   <img alt="ChiruMori's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiruMori&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="200"/>
 </div>
 
