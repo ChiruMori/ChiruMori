@@ -1,6 +1,6 @@
 
 <p>
-  <h1 align="center"><b>Hiii👋, ChiruMori Desuyo!</b></h1>
+  <h1 align="center"><b>Hiii👋, ChiruMori Da!</b></h1>
 </p>
 
 <!--
@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 
 <hr />
 
-> 准备一场旅行..ing
+> Hey there! I'm a back-end developer from Beijing, passionate about technology and always eager to learn. At 25, I'm exploring new paths and would love to find guidance and support.
+
+> I believe in self-learning and have a wide range of interests beyond tech. Recently, I've been delving into the power of collaboration, hoping to connect with like-minded individuals for mutual growth and benefit.
+
+> When I'm not coding, I enjoy music and anime. Feel free to reach out to me via email at cxlm@cxlm.work for anything related to these interests or to discuss potential collaborations. Let's grow together! 😊 
+
+<hr />
 
 <p align="center">
     <img alt="Commit" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiruMori&theme=react" />
