@@ -1,6 +1,6 @@
 
 <p>
-  <h1 align="center"><b>Hiii👋, ChiruMori Da!</b></h1>
+  <h1 align="center"><b>Hi there 👋, ChiruMori Da!</b></h1>
 </p>
 
 <!--
@@ -21,11 +21,51 @@ Here are some ideas to get you started:
 
 <hr />
 
-> Hey there! I'm a back-end developer from Beijing, passionate about technology and always eager to learn. At 25, I'm exploring new paths and would love to find guidance and support.
+我是一名坐标县城的“技术游民”，前一线后端工程师
 
-> I believe in self-learning and have a wide range of interests beyond tech. Recently, I've been delving into the power of collaboration, hoping to connect with like-minded individuals for mutual growth and benefit.
+我将对技术的热爱打包，从都市带回乡村
 
-> When I'm not coding, I enjoy music and anime. Feel free to reach out to me via email at cxlm@cxlm.work for anything related to these interests or to discuss potential collaborations. Let's grow together! 😊 
+我相信技术为热爱赋能，并致力于探索其中的可能性
+
+### 🎯 当前重心：AI 应用与跨域创新
+
+正全力投入 AI 应用相关技术的学习与实践，如果有 AI 与音乐、二次元文化结合的创意，我很愿意与您共创！
+
+### 🛠️ 我的技能树
+
+<details>
+
+<summary><b>🌱 主干技能 (Core Competencies)</b></summary>
+
+* 后端开发：基于Java的技术栈
+* 大前端：TS/Vue/React/Electron/...
+* Python 的综合应用
+
+</details>
+
+<details>
+
+<summary><b>🌿 分支技能 (Cross-disciplinary Skills)</b></summary>
+
+* 嵌入式开发 (C++/Arduino)
+* 多媒体制作，目前在 [B站](https://space.bilibili.com/87878248) 开荒
+* ~~精通[midic](https://github.com/ChiruMori/midic)：自创的玩具语言，能解释执行 MIDI 文件🤣~~
+
+</details>
+
+### 🚀 我的项目
+
+* [effect-midi](https://github.com/ChiruMori/EffectMidi)：一个跨平台的 MIDI 音乐可视化特效控制器
+* ...以及其他正在孵化中的有趣玩意
+
+### 🤝 找到我
+
+如果你对 AI 应用、ACG 技术、音乐科技或任何“很酷”的跨界想法感兴趣，请务必联系我！
+
+* Email: cxlm@cxlm.work
+* Bilibili: [猫立桑](https://space.bilibili.com/87878248)
+
+期待与你一起交流技术、分享创意，进行探索，一起 _Make something cool_
 
 <hr />
 
