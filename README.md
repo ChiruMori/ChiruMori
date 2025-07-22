@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### 🛠️ 我的技能树
 
+![核心技能](https://skillicons.dev/icons?i=java,js,ts,py,html,cpp,arduino,go&perline=10)
+
 <details>
 
 <summary><b>🌱 主干技能 (Core Competencies)</b></summary>
@@ -86,5 +88,11 @@ Here are some ideas to get you started:
 
 <div align = "center">  
   <!--img alt="ChiruMori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChiruMori&custom_title=ChiruMori%20at%20Github&bg_color=0D1117&color=00aaff&line=FFFFFF&point=00aaff&hide_border=true" /-->
-  <img src="https://github-profile-trophy.vercel.app/?username=ChiruMori&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChiruMori&column=5&theme=onedark" />
+</div>
+
+<hr />
+
+<div align = "center">
+    <img src="https://leetcard.jacoblin.cool/cxlm?theme=dark&font=Zilla%20Slab&ext=activity&site=cn" />
 </div>
