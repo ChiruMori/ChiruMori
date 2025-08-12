@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 ### 🚀 我的项目
 
-* [effect-midi](https://github.com/ChiruMori/EffectMidi)：一个跨平台的 MIDI 音乐可视化特效控制器
+* [effect-midi](https://github.com/ChiruMori/EffectMidi): 一个跨平台的 MIDI 音乐可视化特效控制器
+* [StrengthenWeapon](https://github.com/nekoMC/StrengthenWeapon): Minecraft (Paper) 插件，提供装备强化，洗练、精炼、增强附魔等玩法
 * ...以及其他正在孵化中的有趣玩意
 
 ### 🤝 找到我
