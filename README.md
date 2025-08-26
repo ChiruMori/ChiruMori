@@ -73,8 +73,7 @@ Here are some ideas to get you started:
 <hr />
 
 <p align="center">
-    <img alt="Commit" src="https://trophygh.kolioaris.xyz/?username=ChiruMori&theme=react" />
-<!--     <img alt="Commit" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiruMori&theme=react" /> -->
+    <img alt="Commit" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiruMori&theme=react" />
     <br />
     <img align="center" alt="visitors" src="https://count.getloli.com/@ChiruMori?name=ChiruMori&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
@@ -88,7 +87,8 @@ Here are some ideas to get you started:
     <img alt="ChiruMori's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChiruMori&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="300"/>
   </td>
   <td align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChiruMori&column=3&theme=onedark" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=ChiruMori&column=3&theme=onedark" /> -->
+    <img src="https://trophygh.kolioaris.xyz/?username=ChiruMori&column=3&theme=onedark" />
   </td>
   </tr>
 </table>
