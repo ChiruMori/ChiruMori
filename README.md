@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 <hr />
 
 <p align="center">
-    <img alt="Commit" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiruMori&theme=react" />
+    <img alt="Commit" src="https://trophygh.kolioaris.xyz/?username=ChiruMori&theme=react" />
+<!--     <img alt="Commit" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiruMori&theme=react" /> -->
     <br />
     <img align="center" alt="visitors" src="https://count.getloli.com/@ChiruMori?name=ChiruMori&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
